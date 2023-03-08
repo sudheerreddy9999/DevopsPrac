@@ -1,0 +1,2 @@
+ This is info1.txt
+ I am from version1 and Branch feature1
