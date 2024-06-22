@@ -1,4 +1,2 @@
 # DevopsPrac
-pavan kumar 
-jdojfodjfojf
-fnjfhihfiuhfii
+Sudheer I have created this repo for learning devops
